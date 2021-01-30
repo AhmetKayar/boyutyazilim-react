@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to Boyut Yazılım</h1>
+        <h1 className={styles.title}>Boyut Yazılım</h1>
 
         <p className={styles.description}>Size nasıl yardımcı olabiliriz?</p>
 
